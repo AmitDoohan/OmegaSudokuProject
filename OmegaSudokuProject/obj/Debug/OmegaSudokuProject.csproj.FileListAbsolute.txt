@@ -1,0 +1,7 @@
+C:\Users\Amit\Documents\omega\OmegaSudokuProject\OmegaSudokuProject\obj\Debug\OmegaSudokuProject.csproj.AssemblyReference.cache
+C:\Users\Amit\Documents\omega\OmegaSudokuProject\OmegaSudokuProject\obj\Debug\OmegaSudokuProject.csproj.CoreCompileInputs.cache
+C:\Users\Amit\Documents\omega\OmegaSudokuProject\OmegaSudokuProject\bin\Debug\OmegaSudokuProject.exe.config
+C:\Users\Amit\Documents\omega\OmegaSudokuProject\OmegaSudokuProject\bin\Debug\OmegaSudokuProject.exe
+C:\Users\Amit\Documents\omega\OmegaSudokuProject\OmegaSudokuProject\bin\Debug\OmegaSudokuProject.pdb
+C:\Users\Amit\Documents\omega\OmegaSudokuProject\OmegaSudokuProject\obj\Debug\OmegaSudokuProject.exe
+C:\Users\Amit\Documents\omega\OmegaSudokuProject\OmegaSudokuProject\obj\Debug\OmegaSudokuProject.pdb
